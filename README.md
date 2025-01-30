@@ -4,4 +4,4 @@ A simple project to practice a few git/github workflows.  Update this file as in
 
 My Name: MD Hasibul Kadir 
 
-This is the link to my forked repository
+This is the link to my forked repository: https://github.com/cs-uh-3260/s25-i1-gitpractice-eventsharku
